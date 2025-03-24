@@ -1,28 +1,43 @@
-# Project
+# CLOUD NATIVE TOOLS TEAM - OPEN SOURCE PROJECTS
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This document is maintained by the **Cloud Native Tools Team** team. It serves as a guide to help internal teams and stakeholders find projects relevant to our space. Use it to assess which projects to adopt, contribute to, or monitor—depending on your goals (e.g., prototyping, production use, long-term investment).
 
-As the maintainer of this project, please make a few updates:
+## Support Expectations
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+Projects listed here are open source and are **not covered by any enterprise support agreement** unless explicitly stated. If you require help:
+- Check open issues in the project’s repo.
+- Join project communication channels (Slack, mailing lists, etc.).
 
-## Contributing
+If the project is consumed through a managed service or vendor-supported product, refer to that product’s support policy.
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+---
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+## Project List
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+| Project Area                         | Project & Artifacts                                                                                                                                                           | Goal / Description                                                                                                         | Maturity & API Version                                       | Upstream Communication                                                                                                  | Notes / Usage Guidance                                                                                                   |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| {{ Area Name }}                      | [{{ Project Name }}]({{ project_url }}) <br> ([Releases]({{ releases_url }})) <br> [Tests]({{ test_url }})                              | {{ One-liner purpose statement }}                                                   | {{ Maturity level }} <br> API: {{ api_version }}            | {{ Slack channel / mailing list / GitHub issues }}                                                                      | {{ Usage notes, platform integration, internal guidance }}                                                               |
+| Deployment                    | [Draft](https://github.com/Azure/draft) <br> [Releases](https://github.com/Azure/draft/releases) <br> [Tests](https://github.com/Azure/draft/actions/workflows/unit-tests.yml)                              | Make Deploying to Kubernetes Easy - Autogeneration of templates                                               |           |                                                                    |                                                             |
+
+<!-- Copy the row template above for each project and fill in the values -->
+
+---
+
+## Maturity Model
+
+When evaluating a project, consider:
+
+- **Project State**: 
+  - CNCF projects follow the [CNCF maturity model](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc).
+  - Projects under {{ orgs }} may follow a custom internal maturity model ([link] if applicable).
+- **API Version**: API maturity follows [Kubernetes versioning](https://kubernetes.io/docs/concepts/overview/kubernetes-api/#api-versioning) unless otherwise noted.
+
+Typical states include:
+- `sandbox` / `alpha`: Early development, rapid change.
+- `incubating` / `beta`: Functionally complete, stability improving.
+- `graduated` / `stable`: Actively maintained and widely adopted.
+
+---
 
 ## Trademarks
 
