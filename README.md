@@ -29,6 +29,31 @@ If the project is consumed through a managed service or vendor-supported product
 
 ---
 
+## 📺 VS Code & AKS Extensions - Videos & Resources  
+
+| 🎥 Topic | 🔗 Link |
+|----------|--------|
+| **Azure Friday 1**: Azure Kubernetes Services Tools extension in VS Code | [Watch on YouTube](https://www.youtube.com/watch?v=71lfnHZ0IOg) |
+| **Azure Friday 2**: Update on Azure Kubernetes Services Tools extension in VS Code | [Listen on Apple Podcasts](https://podcasts.apple.com/nz/podcast/azure-kubernetes-services-tools-extension-in-vs-code/id739501868?i=1000579561542) |
+| **VS Code LiveStream**: 🔴 AKS VS Code Tools Extension | [Watch on YouTube](https://www.youtube.com/watch?v=SMNpowToWaI) |
+| **AKS x Draft**: Day Zero with Draft | [Watch on YouTube](https://www.youtube.com/watch?v=K1VYLSm32wg&pp=ygUfIERheSB6ZXJvIHdpdGggRFJBRlQgQUtTIFZzY29kZQ%3D%3D) |
+| **Inpektor Gadget x VS Code** | [Watch on YouTube](https://www.youtube.com/watch?v=IK1uTboM138&pp=ygUZSW5zcGVjdG9yIEdhZGdldCB4IFZzY29kZQ%3D%3D) |
+| **Open @ MSFT** with Prabha, Tom & Tats - *15th March* | [Watch on YouTube](https://www.youtube.com/watch?v=vS0SXEkLDdQ) |
+| **More coming soon - Retina** | [Watch on YouTube](https://www.youtube.com/watch?v=yszYA5iu7B4&pp=ygURcmV0aW5hIGFrcyB2c2NvZGXSBwkJvQCDtaTen9Q%3D) |
+| **Automated Deployment from AKS VS Code Extension** | [Watch on YouTube](https://www.youtube.com/watch?v=h3mbOFbZDJI&pp=ygU0IFZzQ29kZSBMaXZlU3RyZWFtOiDwn5S0IEFLUyBWUyBDb2RlIFRvb2xzIEV4dGVuc2lvbg%3D%3D) |
+| **GitHub Copilot integration with Code** | [Watch on YouTube](https://www.youtube.com/watch?v=O4yBKzXKwhk&t=324s&pp=ygUVR0ggQ29waWxvdCBha3MgdnNjb2Rl0gcJCb0Ag7Wk3p_U) |
+
+## 📝 Blogs / Write-ups  
+
+| 📰 Title | 🔗 Link |
+|----------|--------|
+| **🛠️ Release It with Changelog** | [Read on Medium](https://medium.com/@tatsat.mishra/%EF%B8%8F-%EF%B8%8F-release-it-with-changelog-fb1d7224bd5d) |
+| **VS Code AKS Tools Documentation** | [Read on Azure GitHub](https://azure.github.io/vscode-aks-tools/index.html) |
+| **Open @ Microsoft – Bridge to Kubernetes** | [Read on Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/open-at-microsoft-bridge-to-kubernetes/ba-p/3853691) |
+| **Unlocking DevOps Magic – Azure Kubernetes Service** | [Read on Microsoft Tech Community](https://techcommunity.microsoft.com/t5/educator-developer-blog/unlocking-devops-magic-dive-into-the-azure-kubernetes-service/ba-p/3944622) |
+| **VS Code AKS Extensions Guide** | [Read on VS Code Docs](https://code.visualstudio.com/docs/azure/aksextensions) |
+
+
 ## Maturity Model
 
 When evaluating a project, consider:
