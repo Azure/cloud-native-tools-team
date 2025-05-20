@@ -41,6 +41,7 @@ If the project is consumed through a managed service or vendor-supported product
 | **More coming soon - Retina** | [Watch on YouTube](https://www.youtube.com/watch?v=yszYA5iu7B4&pp=ygURcmV0aW5hIGFrcyB2c2NvZGXSBwkJvQCDtaTen9Q%3D) |
 | **Automated Deployment from AKS VS Code Extension** | [Watch on YouTube](https://www.youtube.com/watch?v=h3mbOFbZDJI&pp=ygU0IFZzQ29kZSBMaXZlU3RyZWFtOiDwn5S0IEFLUyBWUyBDb2RlIFRvb2xzIEV4dGVuc2lvbg%3D%3D) |
 | **GitHub Copilot integration with Code** | [Watch on YouTube](https://www.youtube.com/watch?v=O4yBKzXKwhk&t=324s&pp=ygUVR0ggQ29waWxvdCBha3MgdnNjb2Rl0gcJCb0Ag7Wk3p_U) |
+| **VSCode AKS integration with KAITO** | [Watch on YouTube](https://www.youtube.com/watch?app=desktop&v=zGQiLeJwLiQ) |
 
 ## 📝 Blogs / Write-ups  
 
